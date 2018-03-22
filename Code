@@ -4,6 +4,8 @@ package crucesemaforo;
  *
  * @author juangarzon
  */
+ 
+//CLASE SEMAFORO;
 public class Semaforo {
     private int estado;
     private String Nombre;
@@ -68,6 +70,7 @@ public class Semaforo {
     
 }
 
+//MAIN CLASS CRUCESEMAFORO
 package crucesemaforo;
 
 
